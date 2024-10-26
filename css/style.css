@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar-brand img {
+  max-width: 48px;
+  max-height: 48px;
+}
+.nav-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  background-color: #29b24e;
+  min-width: 156px;
+  min-height: 47px;
+  border-radius: 12px;
+  margin: 0 50px;
+}
+.button a {
+  color: #ffffff;
+  max-width: 104px;
+  max-height: 21px;
+  text-decoration: dashed;
+}
